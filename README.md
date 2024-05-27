@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![]((https://github-readme-stats.vercel.app/api?username=kav02)](https://github.com/kav02/github-readme-stats))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kav02&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kav02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kav02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kav02&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
