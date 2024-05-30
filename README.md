@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me <br><br>- 🔭 I’m currently working on developing a Python-based fleet management API.<br>- 🌱 I’m currently learning advanced data structures and algorithms in Python.<br>- 👯 I’m looking to collaborate on open-source Python projects related to machine learning.<br>- 🤔 I’m looking for help with optimizing code performance in Python.<br>- 💬 Ask me about my experience with web development and data analysis.<br>- 📫 How to reach me: You can contact me via email
+## About Me <br><br>- 🔭 I’m developing a Python-based fleet management API.<br>- 🌱 I’m presently learning advanced data structures and algorithms in Python.<br>- 👯 I’m looking to collaborate on open-source Python projects related to machine learning.<br>- 🤔 I’m looking for help with optimizing code performance in Python.<br>- 💬 Ask me about my experience with web development and data analysis.<br>- 📫 How to reach me: You can contact me via email
 
 
 ## 🌐 Socials:
